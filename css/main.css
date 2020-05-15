@@ -1,0 +1,7 @@
+main div { width: 43%; display: inline-block; }
+
+img, svg { width: 100%; }
+
+svg { height: 380px; }
+
+#redText:hover { fill: yellow; }
